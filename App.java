@@ -8,23 +8,4 @@ public String Sample() {
 
 package vms;
 
-public class App {
-public String Sample() {
-	return "sample";
-}
-}
-
-
-package vms;
-
-public class App {
-public String Sample() {
-	return "sample";
-}
-}package vms;
-
-public class App {
-public String Sample() {
-	return "sample";
-}
-}
+sudheer added this file
